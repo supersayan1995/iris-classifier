@@ -1,0 +1,13 @@
+# Virtual Environment
+ai-env/
+/ai-env/
+ai_env/
+/ai_env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
