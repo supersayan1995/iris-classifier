@@ -2,7 +2,7 @@
 
 This project demonstrates a simple machine learning classification task using the famous Iris flower dataset. The model predicts the species of Iris flowers based on their measurements.
 
-This project is part of my AI learning course and was created with assistance from GitHub Copilot.
+This project is part of my AI learning course and was created with assistance from Copilot.
 
 ## Project Overview
 
@@ -64,6 +64,6 @@ This pipeline can be used for future predictions on new data.
 
 ## Author
 
-[Your Name]
+Abhishek Satyavolu
 
 ##
